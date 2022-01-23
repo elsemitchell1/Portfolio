@@ -71,9 +71,9 @@ const Footer = () => {
             </FooterLinksContainer> 
             <SocialMedia>
                 <SocialMediaWrap>
-                    <SocialLogo to="/">
+                    <SocialLogo to="/Portfolio">
                         <IoHome/>
-                        &nbsp;Mitchell Else
+                        &nbsp;Mitchell Else 
                     </SocialLogo>
                     <WebsiteRights>Mitchell Else 2022</WebsiteRights>
                     <SocialIcons>
