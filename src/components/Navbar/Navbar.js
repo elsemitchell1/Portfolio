@@ -40,7 +40,7 @@ const Navbar = () => {
         <IconContext.Provider value={{color: '#fff'}}>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/">
+                    <NavLogo to="/Portfolio">
                         <IoHome />
                         &nbsp;Mitchell Else
                     </NavLogo>
