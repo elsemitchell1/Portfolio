@@ -42,14 +42,14 @@ const Navbar = () => {
                 <NavbarContainer>
                     <NavLogo to="/">
                         <IoHome />
-                        &nbsp;Mitchell Else Portfolio
+                        &nbsp;Mitchell Else
                     </NavLogo>
                     <MobileIcon onClick={handleClick}>
                         {click ? <FaTimes /> : <FaBars />}
                     </MobileIcon>
                     <NavMenu onClick={handleClick} click={click}>
                         <NavItem>
-                            <NavLinks to='/'>
+                            <NavLinks to='/Portfolio'>
                                 Home
                             </NavLinks>
                         </NavItem>
