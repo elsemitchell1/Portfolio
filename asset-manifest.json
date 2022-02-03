@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.fea083e0.js",
+    "main.js": "/Portfolio/static/js/main.cdafea90.js",
+    "static/media/computer.jpg": "/Portfolio/static/media/computer.dcf72336439e30cf54b6.jpg",
+    "static/media/australia.jpg": "/Portfolio/static/media/australia.8ad2687c1542b06cf401.jpg",
+    "static/media/WebDevCert.png": "/Portfolio/static/media/WebDevCert.84b1fc84091f7b328c68.png",
+    "static/media/nasaapi.png": "/Portfolio/static/media/nasaapi.54a1e4cf563517ad819f.png",
+    "static/media/welder.jpg": "/Portfolio/static/media/welder.b9eece1b287b23184362.jpg",
+    "static/media/IMG_4952.JPG": "/Portfolio/static/media/IMG_4952.fce79bdcb9ecbc0e8b19.JPG",
     "static/media/Resume.png": "/Portfolio/static/media/Resume.a30e9fbf04bf3176a7b0.png",
+    "static/media/aboutus.jpeg": "/Portfolio/static/media/aboutus.00d3905b6676ab92638d.jpeg",
+    "static/media/athabasca.png": "/Portfolio/static/media/athabasca.113608240772d915c4f1.png",
     "static/media/img_2.svg": "/Portfolio/static/media/img_2.8f7541b747287ed6ea62586e3940451b.svg",
-    "static/media/img_1.svg": "/Portfolio/static/media/img_1.b214cf4d8870beda46b657d2434957c9.svg",
+    "static/media/coursera.png": "/Portfolio/static/media/coursera.4d897420d2756a4a322b.png",
     "static/media/img_4.svg": "/Portfolio/static/media/img_4.6032fc7f3d6f6a5082bec0505aaf8ecb.svg",
     "static/media/img_3.svg": "/Portfolio/static/media/img_3.ea1f8881071be2e662f5148abd60dec1.svg",
     "index.html": "/Portfolio/index.html",
-    "main.fea083e0.js.map": "/Portfolio/static/js/main.fea083e0.js.map"
+    "main.cdafea90.js.map": "/Portfolio/static/js/main.cdafea90.js.map"
   },
   "entrypoints": [
-    "static/js/main.fea083e0.js"
+    "static/js/main.cdafea90.js"
   ]
 }
