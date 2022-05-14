@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Portfolio/static/js/main.41fbd86d.js",
+    "main.js": "/Portfolio/static/js/main.c7d38877.js",
     "static/media/computer.jpg": "/Portfolio/static/media/computer.dcf72336439e30cf54b6.jpg",
     "static/media/australia.jpg": "/Portfolio/static/media/australia.8ad2687c1542b06cf401.jpg",
     "static/media/ChewbarkerWeb.png": "/Portfolio/static/media/ChewbarkerWeb.9fc3be27c84616691c9d.png",
@@ -17,9 +17,9 @@
     "static/media/img_4.svg": "/Portfolio/static/media/img_4.6032fc7f3d6f6a5082bec0505aaf8ecb.svg",
     "static/media/img_3.svg": "/Portfolio/static/media/img_3.ea1f8881071be2e662f5148abd60dec1.svg",
     "index.html": "/Portfolio/index.html",
-    "main.41fbd86d.js.map": "/Portfolio/static/js/main.41fbd86d.js.map"
+    "main.c7d38877.js.map": "/Portfolio/static/js/main.c7d38877.js.map"
   },
   "entrypoints": [
-    "static/js/main.41fbd86d.js"
+    "static/js/main.c7d38877.js"
   ]
 }
