@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.js": "./static/js/main.21a18df7.js",
-    "static/media/computer.jpg": "./static/media/computer.dcf72336439e30cf54b6.jpg",
-    "static/media/australia.jpg": "./static/media/australia.8ad2687c1542b06cf401.jpg",
-    "static/media/ChewbarkerWeb.png": "./static/media/ChewbarkerWeb.9fc3be27c84616691c9d.png",
-    "static/media/pupshare.png": "./static/media/pupshare.ec09712643d332694805.png",
-    "static/media/WebDevCert.png": "./static/media/WebDevCert.84b1fc84091f7b328c68.png",
-    "static/media/nasaapi.png": "./static/media/nasaapi.54a1e4cf563517ad819f.png",
-    "static/media/Resume.png": "./static/media/Resume.42b49c5cac50c638ff64.png",
-    "static/media/welder.jpg": "./static/media/welder.b9eece1b287b23184362.jpg",
-    "static/media/IMG_4952.JPG": "./static/media/IMG_4952.fce79bdcb9ecbc0e8b19.JPG",
-    "static/media/aboutus.jpeg": "./static/media/aboutus.00d3905b6676ab92638d.jpeg",
-    "static/media/Wonderland.png": "./static/media/Wonderland.dffcd79548dfbdd4a885.png",
-    "static/media/athabasca.png": "./static/media/athabasca.113608240772d915c4f1.png",
-    "static/media/img_2.svg": "./static/media/img_2.8f7541b747287ed6ea62586e3940451b.svg",
-    "static/media/coursera.png": "./static/media/coursera.4d897420d2756a4a322b.png",
-    "static/media/img_4.svg": "./static/media/img_4.6032fc7f3d6f6a5082bec0505aaf8ecb.svg",
-    "static/media/img_3.svg": "./static/media/img_3.ea1f8881071be2e662f5148abd60dec1.svg",
-    "index.html": "./index.html",
-    "main.21a18df7.js.map": "./static/js/main.21a18df7.js.map"
+    "main.js": "/Portfolio/static/js/main.31724c0c.js",
+    "static/media/computer.jpg": "/Portfolio/static/media/computer.dcf72336439e30cf54b6.jpg",
+    "static/media/australia.jpg": "/Portfolio/static/media/australia.8ad2687c1542b06cf401.jpg",
+    "static/media/ChewbarkerWeb.png": "/Portfolio/static/media/ChewbarkerWeb.9fc3be27c84616691c9d.png",
+    "static/media/pupshare.png": "/Portfolio/static/media/pupshare.ec09712643d332694805.png",
+    "static/media/WebDevCert.png": "/Portfolio/static/media/WebDevCert.84b1fc84091f7b328c68.png",
+    "static/media/nasaapi.png": "/Portfolio/static/media/nasaapi.54a1e4cf563517ad819f.png",
+    "static/media/Resume.png": "/Portfolio/static/media/Resume.42b49c5cac50c638ff64.png",
+    "static/media/welder.jpg": "/Portfolio/static/media/welder.b9eece1b287b23184362.jpg",
+    "static/media/IMG_4952.JPG": "/Portfolio/static/media/IMG_4952.fce79bdcb9ecbc0e8b19.JPG",
+    "static/media/aboutus.jpeg": "/Portfolio/static/media/aboutus.00d3905b6676ab92638d.jpeg",
+    "static/media/Wonderland.png": "/Portfolio/static/media/Wonderland.dffcd79548dfbdd4a885.png",
+    "static/media/athabasca.png": "/Portfolio/static/media/athabasca.113608240772d915c4f1.png",
+    "static/media/img_2.svg": "/Portfolio/static/media/img_2.8f7541b747287ed6ea62586e3940451b.svg",
+    "static/media/coursera.png": "/Portfolio/static/media/coursera.4d897420d2756a4a322b.png",
+    "static/media/img_4.svg": "/Portfolio/static/media/img_4.6032fc7f3d6f6a5082bec0505aaf8ecb.svg",
+    "static/media/img_3.svg": "/Portfolio/static/media/img_3.ea1f8881071be2e662f5148abd60dec1.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.31724c0c.js.map": "/Portfolio/static/js/main.31724c0c.js.map"
   },
   "entrypoints": [
-    "static/js/main.21a18df7.js"
+    "static/js/main.31724c0c.js"
   ]
 }
